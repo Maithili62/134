@@ -1,0 +1,28 @@
+body
+{
+    background-size: cover;
+    color: aliceblue;
+}
+
+.heading
+{
+    background-color: white;
+    font-weight: bolder;
+    box-shadow: 7px 7px 7px white;
+    margin-top: 0px;
+    color: black;
+    font-size: 50px;
+}
+
+#found
+{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+canvas
+{
+    border: 20px white ridge;
+    border-radius: 1px;;
+}
